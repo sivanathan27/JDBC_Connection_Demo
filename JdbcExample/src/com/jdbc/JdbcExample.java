@@ -7,6 +7,7 @@ import java.sql.Statement;
 
 public class JdbcExample {
     public static void main(String[] args) {
+        
         // Database URL
         String jdbcUrl = "jdbc:mysql://localhost:3306/testdb";
         // Database credentials
